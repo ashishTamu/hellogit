@@ -1,2 +1,2 @@
 # hellogit
-Just a trail to understand git
+Just a trial to understand git
